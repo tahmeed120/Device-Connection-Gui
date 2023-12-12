@@ -1,0 +1,1368 @@
+2023-12-04 18:41:04,420	INFO	Cleared for lift off!
+2023-12-04 18:41:04,421	INFO	Processing Device: 2
+2023-12-04 18:41:04,510	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:41:04,732	INFO	192.168.0.10	Attendances Fetched:	1090
+2023-12-04 18:41:04,753	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:41:05,413	INFO	Mission Accomplished!
+2023-12-04 18:42:05,436	INFO	Cleared for lift off!
+2023-12-04 18:42:05,436	INFO	Processing Device: 2
+2023-12-04 18:42:05,512	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:42:05,750	INFO	192.168.0.10	Attendances Fetched:	1091
+2023-12-04 18:42:05,775	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:42:06,005	INFO	Mission Accomplished!
+2023-12-04 18:43:06,029	INFO	Cleared for lift off!
+2023-12-04 18:43:06,029	INFO	Processing Device: 2
+2023-12-04 18:43:06,096	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:43:06,337	INFO	192.168.0.10	Attendances Fetched:	1091
+2023-12-04 18:43:06,357	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:43:06,579	INFO	Mission Accomplished!
+2023-12-04 18:44:06,606	INFO	Cleared for lift off!
+2023-12-04 18:44:06,606	INFO	Processing Device: 2
+2023-12-04 18:44:06,679	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:44:06,942	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:44:06,967	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:44:07,175	INFO	Mission Accomplished!
+2023-12-04 18:45:07,592	INFO	Cleared for lift off!
+2023-12-04 18:45:07,593	INFO	Processing Device: 2
+2023-12-04 18:45:07,675	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:45:07,953	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:45:07,979	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:45:08,218	INFO	Mission Accomplished!
+2023-12-04 18:46:08,253	INFO	Cleared for lift off!
+2023-12-04 18:46:08,253	INFO	Processing Device: 2
+2023-12-04 18:46:08,342	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:46:08,575	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:46:08,599	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:46:08,800	INFO	Mission Accomplished!
+2023-12-04 18:47:08,823	INFO	Cleared for lift off!
+2023-12-04 18:47:08,823	INFO	Processing Device: 2
+2023-12-04 18:47:08,891	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:47:09,138	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:47:09,163	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:47:09,377	INFO	Mission Accomplished!
+2023-12-04 18:48:47,090	INFO	Cleared for lift off!
+2023-12-04 18:48:47,091	INFO	Processing Device: 2
+2023-12-04 18:48:47,181	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:48:47,430	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:48:47,453	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:48:47,639	INFO	Mission Accomplished!
+2023-12-04 18:49:47,661	INFO	Cleared for lift off!
+2023-12-04 18:49:47,661	INFO	Processing Device: 2
+2023-12-04 18:49:47,743	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:49:47,979	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:49:48,002	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:49:48,192	INFO	Mission Accomplished!
+2023-12-04 18:51:54,278	INFO	Cleared for lift off!
+2023-12-04 18:51:54,278	INFO	Processing Device: 2
+2023-12-04 18:51:54,378	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:51:55,471	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:51:55,491	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:52:30,797	INFO	Mission Accomplished!
+2023-12-04 18:53:00,883	INFO	Cleared for lift off!
+2023-12-04 18:53:00,883	INFO	Processing Device: 2
+2023-12-04 18:53:01,240	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:53:01,888	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:53:01,924	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:53:02,168	INFO	Mission Accomplished!
+2023-12-04 18:54:02,203	INFO	Cleared for lift off!
+2023-12-04 18:54:02,203	INFO	Processing Device: 2
+2023-12-04 18:54:02,367	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:54:02,617	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:54:02,640	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:54:02,858	INFO	Mission Accomplished!
+2023-12-04 18:55:02,881	INFO	Cleared for lift off!
+2023-12-04 18:55:02,881	INFO	Processing Device: 2
+2023-12-04 18:55:02,954	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:55:03,216	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:55:03,247	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:55:03,479	INFO	Mission Accomplished!
+2023-12-04 18:56:03,507	INFO	Cleared for lift off!
+2023-12-04 18:56:03,507	INFO	Processing Device: 2
+2023-12-04 18:56:03,594	INFO	192.168.0.10	Device Disable Attempted. Result:	True
+2023-12-04 18:56:03,909	INFO	192.168.0.10	Attendances Fetched:	1092
+2023-12-04 18:56:03,936	INFO	192.168.0.10	Device Enable Attempted. Result:	True
+2023-12-04 18:56:04,158	INFO	Mission Accomplished!
+2023-12-05 04:58:12,801	INFO	Cleared for lift off!
+2023-12-05 04:58:12,801	INFO	Processing Device: 2
+2023-12-05 04:59:16,904	INFO	Mission Accomplished!
+2023-12-05 04:59:31,911	INFO	Cleared for lift off!
+2023-12-05 04:59:31,911	INFO	Processing Device: 2
+2023-12-05 05:00:51,772	INFO	Cleared for lift off!
+2023-12-05 05:00:51,772	INFO	Processing Device: 2
+2023-12-05 05:01:55,818	INFO	Mission Accomplished!
+2023-12-05 05:02:10,818	INFO	Cleared for lift off!
+2023-12-05 05:02:10,818	INFO	Processing Device: 2
+2023-12-05 05:02:16,181	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-05 05:02:17,470	INFO	192.168.0.6	Attendances Fetched:	1094
+2023-12-05 05:02:17,501	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-05 05:02:20,028	INFO	Mission Accomplished!
+2023-12-05 05:03:20,365	INFO	Cleared for lift off!
+2023-12-05 05:03:20,365	INFO	Processing Device: 2
+2023-12-05 05:03:20,438	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-05 05:03:20,688	INFO	192.168.0.6	Attendances Fetched:	1094
+2023-12-05 05:03:20,735	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-05 05:03:23,096	INFO	Mission Accomplished!
+2023-12-05 05:04:23,125	INFO	Cleared for lift off!
+2023-12-05 05:04:23,125	INFO	Processing Device: 2
+2023-12-05 05:04:23,187	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-05 05:04:23,437	INFO	192.168.0.6	Attendances Fetched:	1094
+2023-12-05 05:04:23,469	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-05 05:04:25,827	INFO	Mission Accomplished!
+2023-12-05 05:05:25,854	INFO	Cleared for lift off!
+2023-12-05 05:05:25,854	INFO	Processing Device: 2
+2023-12-05 05:05:25,923	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-05 05:05:26,155	INFO	192.168.0.6	Attendances Fetched:	1094
+2023-12-05 05:05:26,183	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-06 05:42:52,620	INFO	Cleared for lift off!
+2023-12-06 05:42:52,621	INFO	Processing Device: 2
+2023-12-06 05:42:52,745	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 05:42:52,767	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 05:42:52,789	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 05:42:52,800	INFO	Successfully processed Device: 2
+2023-12-06 05:42:53,346	INFO	Shift Type last_sync_of_checkin Updated	A	1701819772.768675
+2023-12-06 05:42:53,348	INFO	Mission Accomplished!
+2023-12-06 12:11:23,012	INFO	Cleared for lift off!
+2023-12-06 12:11:23,012	INFO	Processing Device: 2
+2023-12-06 12:11:59,809	INFO	Mission Accomplished!
+2023-12-06 12:12:29,825	INFO	Cleared for lift off!
+2023-12-06 12:12:29,825	INFO	Processing Device: 2
+2023-12-06 12:13:34,869	INFO	Cleared for lift off!
+2023-12-06 12:13:34,869	INFO	Processing Device: 2
+2023-12-06 12:13:35,235	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:13:35,279	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:13:35,321	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:13:35,363	INFO	Successfully processed Device: 2
+2023-12-06 12:13:35,784	INFO	Shift Type last_sync_of_checkin Updated	A	1701843215.280968
+2023-12-06 12:13:35,787	INFO	Mission Accomplished!
+2023-12-06 12:14:35,834	INFO	Cleared for lift off!
+2023-12-06 12:14:35,834	INFO	Processing Device: 2
+2023-12-06 12:14:35,917	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:14:35,941	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:14:35,963	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:14:35,973	INFO	Successfully processed Device: 2
+2023-12-06 12:14:36,522	INFO	Shift Type last_sync_of_checkin Updated	A	1701843275.94303
+2023-12-06 12:14:36,525	INFO	Mission Accomplished!
+2023-12-06 12:15:36,565	INFO	Cleared for lift off!
+2023-12-06 12:15:36,565	INFO	Processing Device: 2
+2023-12-06 12:15:36,668	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:15:36,689	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:15:36,712	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:15:36,723	INFO	Successfully processed Device: 2
+2023-12-06 12:15:37,104	INFO	Shift Type last_sync_of_checkin Updated	A	1701843336.691055
+2023-12-06 12:15:37,120	INFO	Mission Accomplished!
+2023-12-06 12:17:34,722	INFO	Cleared for lift off!
+2023-12-06 12:17:34,722	INFO	Processing Device: 2
+2023-12-06 12:17:34,849	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:17:34,868	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:17:34,925	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:17:34,930	INFO	Successfully processed Device: 2
+2023-12-06 12:17:35,193	INFO	Shift Type last_sync_of_checkin Updated	A	1701843454.869876
+2023-12-06 12:17:35,195	INFO	Mission Accomplished!
+2023-12-06 12:35:31,374	INFO	Cleared for lift off!
+2023-12-06 12:35:31,374	INFO	Processing Device: 2
+2023-12-06 12:35:31,451	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:35:31,469	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:35:31,479	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:35:31,490	INFO	Successfully processed Device: 2
+2023-12-06 12:35:32,221	INFO	Shift Type last_sync_of_checkin Updated	A	1701844531.470393
+2023-12-06 12:35:32,224	INFO	Mission Accomplished!
+2023-12-06 12:36:32,244	INFO	Cleared for lift off!
+2023-12-06 12:36:32,244	INFO	Processing Device: 2
+2023-12-06 12:36:32,319	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:36:32,334	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:36:32,350	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:36:32,364	INFO	Successfully processed Device: 2
+2023-12-06 12:36:32,589	INFO	Shift Type last_sync_of_checkin Updated	A	1701844592.336294
+2023-12-06 12:36:32,592	INFO	Mission Accomplished!
+2023-12-06 12:37:32,605	INFO	Cleared for lift off!
+2023-12-06 12:37:32,605	INFO	Processing Device: 2
+2023-12-06 12:37:32,692	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 12:37:32,709	INFO	192.168.0.5	Attendances Fetched:	0
+2023-12-06 12:37:32,726	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 12:37:32,738	INFO	Successfully processed Device: 2
+2023-12-06 12:37:32,977	INFO	Shift Type last_sync_of_checkin Updated	A	1701844652.710847
+2023-12-06 12:37:32,979	INFO	Mission Accomplished!
+2023-12-06 14:14:38,624	INFO	Cleared for lift off!
+2023-12-06 14:14:38,624	INFO	Processing Device: 2
+2023-12-06 14:14:38,702	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:14:39,278	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:14:39,297	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:14:39,317	INFO	Successfully processed Device: 2
+2023-12-06 14:14:40,167	INFO	Shift Type last_sync_of_checkin Updated	A	1701850479.279542
+2023-12-06 14:14:40,169	INFO	Mission Accomplished!
+2023-12-06 14:15:40,201	INFO	Cleared for lift off!
+2023-12-06 14:15:40,201	INFO	Processing Device: 2
+2023-12-06 14:15:40,292	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:15:40,832	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:15:40,860	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:15:40,866	INFO	Successfully processed Device: 2
+2023-12-06 14:15:41,137	INFO	Shift Type last_sync_of_checkin Updated	A	1701850540.833759
+2023-12-06 14:15:41,139	INFO	Mission Accomplished!
+2023-12-06 14:16:42,032	INFO	Cleared for lift off!
+2023-12-06 14:16:42,032	INFO	Processing Device: 2
+2023-12-06 14:16:45,909	INFO	Mission Accomplished!
+2023-12-06 14:20:28,434	INFO	Cleared for lift off!
+2023-12-06 14:20:28,434	INFO	Processing Device: 2
+2023-12-06 14:20:28,518	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:20:29,116	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:20:29,132	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:20:29,143	INFO	Successfully processed Device: 2
+2023-12-06 14:20:29,333	INFO	Mission Accomplished!
+2023-12-06 14:21:29,343	INFO	Cleared for lift off!
+2023-12-06 14:21:29,343	INFO	Processing Device: 2
+2023-12-06 14:21:33,103	INFO	Mission Accomplished!
+2023-12-06 14:22:33,119	INFO	Cleared for lift off!
+2023-12-06 14:22:33,119	INFO	Processing Device: 2
+2023-12-06 14:22:33,199	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:22:33,602	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:22:33,621	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:22:33,637	INFO	Successfully processed Device: 2
+2023-12-06 14:22:33,807	INFO	Mission Accomplished!
+2023-12-06 14:23:33,820	INFO	Cleared for lift off!
+2023-12-06 14:23:33,820	INFO	Processing Device: 2
+2023-12-06 14:23:39,202	INFO	Mission Accomplished!
+2023-12-06 14:24:39,204	INFO	Cleared for lift off!
+2023-12-06 14:24:39,204	INFO	Processing Device: 2
+2023-12-06 14:24:39,285	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:24:39,878	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:24:39,898	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:24:39,911	INFO	Successfully processed Device: 2
+2023-12-06 14:24:40,096	INFO	Mission Accomplished!
+2023-12-06 14:25:40,128	INFO	Cleared for lift off!
+2023-12-06 14:25:40,128	INFO	Processing Device: 2
+2023-12-06 14:25:40,198	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:25:40,713	INFO	192.168.0.5	Attendances Fetched:	1
+2023-12-06 14:25:40,748	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:25:40,760	INFO	Successfully processed Device: 2
+2023-12-06 14:25:40,942	INFO	Mission Accomplished!
+2023-12-06 14:26:55,100	INFO	Cleared for lift off!
+2023-12-06 14:26:55,100	INFO	Processing Device: 2
+2023-12-06 14:26:55,202	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:26:55,662	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:26:55,673	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:26:56,057	INFO	Successfully processed Device: 2
+2023-12-06 14:26:56,231	INFO	Mission Accomplished!
+2023-12-06 14:27:56,258	INFO	Cleared for lift off!
+2023-12-06 14:27:56,258	INFO	Processing Device: 2
+2023-12-06 14:27:56,328	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:27:56,808	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:27:56,833	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:27:57,173	INFO	Successfully processed Device: 2
+2023-12-06 14:27:57,350	INFO	Mission Accomplished!
+2023-12-06 14:30:45,619	INFO	Cleared for lift off!
+2023-12-06 14:30:45,619	INFO	Processing Device: 2
+2023-12-06 14:30:45,725	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:30:46,361	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:30:46,383	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:30:46,807	INFO	Successfully processed Device: 2
+2023-12-06 14:30:47,032	INFO	Shift Type last_sync_of_checkin Updated	A	1701851446.362411
+2023-12-06 14:30:47,034	INFO	Mission Accomplished!
+2023-12-06 14:31:47,051	INFO	Cleared for lift off!
+2023-12-06 14:31:47,051	INFO	Processing Device: 2
+2023-12-06 14:31:47,128	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:31:47,609	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:31:47,629	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:31:47,978	INFO	Successfully processed Device: 2
+2023-12-06 14:31:48,207	INFO	Shift Type last_sync_of_checkin Updated	A	1701851507.610728
+2023-12-06 14:31:48,209	INFO	Mission Accomplished!
+2023-12-06 14:34:14,859	INFO	Cleared for lift off!
+2023-12-06 14:34:14,859	INFO	Processing Device: 2
+2023-12-06 14:34:14,943	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:34:15,403	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:34:15,449	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:34:15,835	INFO	Successfully processed Device: 2
+2023-12-06 14:34:16,090	INFO	Shift Type last_sync_of_checkin Updated	A	1701851655.404397
+2023-12-06 14:34:16,092	INFO	Mission Accomplished!
+2023-12-06 14:35:16,102	INFO	Cleared for lift off!
+2023-12-06 14:35:16,102	INFO	Processing Device: 2
+2023-12-06 14:35:16,182	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:35:16,660	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:35:16,687	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:35:17,097	INFO	Successfully processed Device: 2
+2023-12-06 14:35:17,782	INFO	Shift Type last_sync_of_checkin Updated	A	1701851716.661844
+2023-12-06 14:35:17,784	INFO	Mission Accomplished!
+2023-12-06 14:39:26,655	INFO	Cleared for lift off!
+2023-12-06 14:39:26,656	INFO	Processing Device: 2
+2023-12-06 14:39:26,770	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:39:27,219	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:39:27,238	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:39:27,737	INFO	Successfully processed Device: 2
+2023-12-06 14:39:28,129	INFO	Shift Type last_sync_of_checkin Updated	A	1701851967.220319
+2023-12-06 14:39:28,132	INFO	Mission Accomplished!
+2023-12-06 14:40:28,157	INFO	Cleared for lift off!
+2023-12-06 14:40:28,157	INFO	Processing Device: 2
+2023-12-06 14:40:28,237	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:40:28,649	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:40:28,681	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:40:29,040	INFO	Successfully processed Device: 2
+2023-12-06 14:40:29,243	INFO	Shift Type last_sync_of_checkin Updated	A	1701852028.66521
+2023-12-06 14:40:29,259	INFO	Mission Accomplished!
+2023-12-06 14:41:29,343	INFO	Cleared for lift off!
+2023-12-06 14:41:29,343	INFO	Processing Device: 2
+2023-12-06 14:41:33,288	INFO	Mission Accomplished!
+2023-12-06 14:42:33,326	INFO	Cleared for lift off!
+2023-12-06 14:42:33,326	INFO	Processing Device: 2
+2023-12-06 14:42:34,573	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:42:35,433	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:42:35,448	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:42:36,809	INFO	Successfully processed Device: 2
+2023-12-06 14:42:37,101	INFO	Shift Type last_sync_of_checkin Updated	A	1701852155.433225
+2023-12-06 14:42:37,101	INFO	Mission Accomplished!
+2023-12-06 14:43:37,126	INFO	Cleared for lift off!
+2023-12-06 14:43:37,126	INFO	Processing Device: 2
+2023-12-06 14:43:39,212	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:43:39,894	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:43:40,175	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:43:40,708	INFO	Successfully processed Device: 2
+2023-12-06 14:43:40,933	INFO	Shift Type last_sync_of_checkin Updated	A	1701852219.894161
+2023-12-06 14:43:40,933	INFO	Mission Accomplished!
+2023-12-06 14:46:07,960	INFO	Cleared for lift off!
+2023-12-06 14:46:07,960	INFO	Processing Device: 2
+2023-12-06 14:46:08,232	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:46:08,713	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:46:08,725	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:46:09,154	INFO	Successfully processed Device: 2
+2023-12-06 14:46:09,704	INFO	Shift Type last_sync_of_checkin Updated	A	1701852368.714959
+2023-12-06 14:46:09,704	INFO	Mission Accomplished!
+2023-12-06 14:47:09,727	INFO	Cleared for lift off!
+2023-12-06 14:47:09,727	INFO	Processing Device: 2
+2023-12-06 14:47:09,863	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:47:10,466	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:47:10,513	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:47:11,066	INFO	Successfully processed Device: 2
+2023-12-06 14:47:11,269	INFO	Shift Type last_sync_of_checkin Updated	A	1701852430.466146
+2023-12-06 14:47:11,269	INFO	Mission Accomplished!
+2023-12-06 14:48:14,279	INFO	Cleared for lift off!
+2023-12-06 14:48:14,279	INFO	Processing Device: 2
+2023-12-06 14:48:18,218	INFO	Mission Accomplished!
+2023-12-06 14:49:18,253	INFO	Cleared for lift off!
+2023-12-06 14:49:18,253	INFO	Processing Device: 2
+2023-12-06 14:49:18,374	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:49:18,889	INFO	192.168.0.5	Attendances Fetched:	3
+2023-12-06 14:49:18,926	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:49:19,791	INFO	Successfully processed Device: 2
+2023-12-06 14:49:20,180	INFO	Shift Type last_sync_of_checkin Updated	A	1701852558.889408
+2023-12-06 14:49:20,180	INFO	Mission Accomplished!
+2023-12-06 14:50:24,833	INFO	Cleared for lift off!
+2023-12-06 14:50:24,833	INFO	Processing Device: 2
+2023-12-06 14:50:28,758	INFO	Mission Accomplished!
+2023-12-06 14:51:28,791	INFO	Cleared for lift off!
+2023-12-06 14:51:28,791	INFO	Processing Device: 2
+2023-12-06 14:51:32,730	INFO	Mission Accomplished!
+2023-12-06 14:52:32,744	INFO	Cleared for lift off!
+2023-12-06 14:52:32,744	INFO	Processing Device: 2
+2023-12-06 14:52:32,810	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 14:52:33,257	INFO	192.168.0.5	Attendances Fetched:	5
+2023-12-06 14:52:33,273	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 14:52:33,846	INFO	Successfully processed Device: 2
+2023-12-06 14:52:34,080	INFO	Shift Type last_sync_of_checkin Updated	A	1701852753.257581
+2023-12-06 14:52:34,080	INFO	Mission Accomplished!
+2023-12-06 15:01:22,205	INFO	Cleared for lift off!
+2023-12-06 15:01:22,205	INFO	Processing Device: 2
+2023-12-06 15:01:22,289	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 15:01:22,766	INFO	192.168.0.5	Attendances Fetched:	5
+2023-12-06 15:01:22,792	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 15:01:22,821	INFO	Successfully processed Device: 2
+2023-12-06 15:01:23,084	INFO	Shift Type last_sync_of_checkin Updated	A	1701853282.767099
+2023-12-06 15:01:23,087	INFO	Mission Accomplished!
+2023-12-06 15:02:23,111	INFO	Cleared for lift off!
+2023-12-06 15:02:23,111	INFO	Processing Device: 2
+2023-12-06 15:02:23,180	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 15:02:23,581	INFO	192.168.0.5	Attendances Fetched:	6
+2023-12-06 15:02:23,601	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 15:02:23,911	INFO	Successfully processed Device: 2
+2023-12-06 15:02:24,116	INFO	Shift Type last_sync_of_checkin Updated	A	1701853343.581294
+2023-12-06 15:02:24,116	INFO	Mission Accomplished!
+2023-12-06 15:03:24,149	INFO	Cleared for lift off!
+2023-12-06 15:03:24,149	INFO	Processing Device: 2
+2023-12-06 15:03:24,252	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-06 15:03:25,240	INFO	192.168.0.5	Attendances Fetched:	6
+2023-12-06 15:03:25,256	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-06 15:03:25,281	INFO	Successfully processed Device: 2
+2023-12-06 15:03:29,304	INFO	Shift Type last_sync_of_checkin Updated	A	1701853405.240405
+2023-12-06 15:03:29,304	INFO	Mission Accomplished!
+2023-12-07 12:11:41,018	INFO	Cleared for lift off!
+2023-12-07 12:11:41,018	INFO	Processing Device: 2
+2023-12-07 12:11:41,129	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:11:41,560	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:11:41,604	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:11:41,679	INFO	Successfully processed Device: 2
+2023-12-07 12:11:42,245	INFO	Shift Type last_sync_of_checkin Updated	A	1701929501.561363
+2023-12-07 12:11:42,252	INFO	Mission Accomplished!
+2023-12-07 12:12:56,327	INFO	Cleared for lift off!
+2023-12-07 12:12:56,327	INFO	Processing Device: 2
+2023-12-07 12:12:56,413	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:12:56,860	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:12:56,883	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:12:56,893	INFO	Successfully processed Device: 2
+2023-12-07 12:12:57,148	INFO	Shift Type last_sync_of_checkin Updated	A	1701929576.861153
+2023-12-07 12:12:57,150	INFO	Mission Accomplished!
+2023-12-07 12:20:36,891	INFO	Cleared for lift off!
+2023-12-07 12:20:36,892	INFO	Processing Device: 2
+2023-12-07 12:20:36,977	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:20:37,507	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:20:37,521	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:20:37,543	INFO	Successfully processed Device: 2
+2023-12-07 12:20:37,811	INFO	Shift Type last_sync_of_checkin Updated	A	1701930037.508504
+2023-12-07 12:20:37,814	INFO	Mission Accomplished!
+2023-12-07 12:23:24,156	INFO	Cleared for lift off!
+2023-12-07 12:23:24,156	INFO	Processing Device: 2
+2023-12-07 12:23:24,266	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:23:24,628	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:23:24,652	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:23:24,686	INFO	Successfully processed Device: 2
+2023-12-07 12:23:25,153	INFO	Shift Type last_sync_of_checkin Updated	A	1701930204.629229
+2023-12-07 12:23:25,163	INFO	Mission Accomplished!
+2023-12-07 12:24:25,199	INFO	Cleared for lift off!
+2023-12-07 12:24:25,199	INFO	Processing Device: 2
+2023-12-07 12:24:25,292	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:24:26,017	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:24:26,033	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:24:26,048	INFO	Successfully processed Device: 2
+2023-12-07 12:24:26,296	INFO	Shift Type last_sync_of_checkin Updated	A	1701930266.017581
+2023-12-07 12:24:26,296	INFO	Mission Accomplished!
+2023-12-07 12:36:04,123	INFO	Cleared for lift off!
+2023-12-07 12:36:04,124	INFO	Processing Device: 2
+2023-12-07 12:36:04,209	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:36:04,615	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:36:04,634	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:36:04,656	INFO	Successfully processed Device: 2
+2023-12-07 12:36:04,980	INFO	Shift Type last_sync_of_checkin Updated	A	1701930964.61668
+2023-12-07 12:36:04,983	INFO	Mission Accomplished!
+2023-12-07 12:37:16,566	INFO	Cleared for lift off!
+2023-12-07 12:37:16,567	INFO	Processing Device: 2
+2023-12-07 12:37:16,660	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 12:37:17,107	INFO	192.168.0.6	Attendances Fetched:	6
+2023-12-07 12:37:17,126	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 12:37:17,140	INFO	Successfully processed Device: 2
+2023-12-07 12:37:17,482	INFO	Shift Type last_sync_of_checkin Updated	A	1701931037.10881
+2023-12-07 12:37:17,484	INFO	Mission Accomplished!
+2023-12-07 13:03:03,436	INFO	Cleared for lift off!
+2023-12-07 13:03:03,437	INFO	Processing Device: 2
+2023-12-07 13:03:03,514	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:03:03,934	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:03:03,952	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:03:03,969	INFO	Mission Accomplished!
+2023-12-07 13:04:03,974	INFO	Cleared for lift off!
+2023-12-07 13:04:03,974	INFO	Processing Device: 2
+2023-12-07 13:04:04,086	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:04:04,543	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:04:04,567	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:04:04,592	INFO	Mission Accomplished!
+2023-12-07 13:05:04,621	INFO	Cleared for lift off!
+2023-12-07 13:05:04,621	INFO	Processing Device: 2
+2023-12-07 13:05:04,724	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:05:07,297	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:05:07,328	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:05:07,362	INFO	Mission Accomplished!
+2023-12-07 13:10:48,255	INFO	Cleared for lift off!
+2023-12-07 13:10:48,255	INFO	Processing Device: 2
+2023-12-07 13:10:48,351	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:10:48,838	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:10:48,862	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:10:48,878	INFO	Mission Accomplished!
+2023-12-07 13:11:48,920	INFO	Cleared for lift off!
+2023-12-07 13:11:48,920	INFO	Processing Device: 2
+2023-12-07 13:11:48,982	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:11:49,437	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:11:49,453	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:11:49,468	INFO	Mission Accomplished!
+2023-12-07 13:12:49,502	INFO	Cleared for lift off!
+2023-12-07 13:12:49,502	INFO	Processing Device: 2
+2023-12-07 13:12:49,558	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:12:50,272	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:12:50,303	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:12:50,334	INFO	Mission Accomplished!
+2023-12-07 13:13:50,353	INFO	Cleared for lift off!
+2023-12-07 13:13:50,353	INFO	Processing Device: 2
+2023-12-07 13:13:50,831	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:13:51,507	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:13:51,535	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:13:51,540	INFO	Mission Accomplished!
+2023-12-07 13:14:51,587	INFO	Cleared for lift off!
+2023-12-07 13:14:51,587	INFO	Processing Device: 2
+2023-12-07 13:14:51,655	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:14:52,268	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:14:52,284	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:14:52,300	INFO	Mission Accomplished!
+2023-12-07 13:15:52,326	INFO	Cleared for lift off!
+2023-12-07 13:15:52,326	INFO	Processing Device: 2
+2023-12-07 13:15:52,549	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:15:53,621	INFO	192.168.0.6	Attendances Fetched:	7
+2023-12-07 13:15:53,637	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:15:53,652	INFO	Mission Accomplished!
+2023-12-07 13:16:53,687	INFO	Cleared for lift off!
+2023-12-07 13:16:53,687	INFO	Processing Device: 2
+2023-12-07 13:16:57,280	INFO	Mission Accomplished!
+2023-12-07 13:48:55,345	INFO	Cleared for lift off!
+2023-12-07 13:48:55,346	INFO	Processing Device: 2
+2023-12-07 13:48:55,444	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:48:55,884	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:48:55,902	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:48:55,916	INFO	Mission Accomplished!
+2023-12-07 13:49:55,939	INFO	Cleared for lift off!
+2023-12-07 13:49:55,939	INFO	Processing Device: 2
+2023-12-07 13:49:56,003	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:49:56,381	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:49:56,404	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:49:56,404	INFO	Mission Accomplished!
+2023-12-07 13:50:56,421	INFO	Cleared for lift off!
+2023-12-07 13:50:56,421	INFO	Processing Device: 2
+2023-12-07 13:50:56,499	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:50:56,918	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:50:56,933	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:50:56,949	INFO	Mission Accomplished!
+2023-12-07 13:51:56,982	INFO	Cleared for lift off!
+2023-12-07 13:51:56,982	INFO	Processing Device: 2
+2023-12-07 13:51:57,060	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:51:57,553	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:51:57,569	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:51:57,585	INFO	Mission Accomplished!
+2023-12-07 13:52:57,604	INFO	Cleared for lift off!
+2023-12-07 13:52:57,604	INFO	Processing Device: 2
+2023-12-07 13:52:57,668	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:52:58,151	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:52:58,167	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:52:58,183	INFO	Mission Accomplished!
+2023-12-07 13:53:58,205	INFO	Cleared for lift off!
+2023-12-07 13:53:58,205	INFO	Processing Device: 2
+2023-12-07 13:53:58,282	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:53:58,767	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:53:58,794	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:53:58,810	INFO	Mission Accomplished!
+2023-12-07 13:54:58,834	INFO	Cleared for lift off!
+2023-12-07 13:54:58,834	INFO	Processing Device: 2
+2023-12-07 13:54:58,899	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:54:59,299	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:54:59,325	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:54:59,333	INFO	Mission Accomplished!
+2023-12-07 13:55:59,362	INFO	Cleared for lift off!
+2023-12-07 13:55:59,362	INFO	Processing Device: 2
+2023-12-07 13:56:02,456	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:56:02,878	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:56:02,894	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:56:02,916	INFO	Mission Accomplished!
+2023-12-07 13:57:02,954	INFO	Cleared for lift off!
+2023-12-07 13:57:02,954	INFO	Processing Device: 2
+2023-12-07 13:57:03,033	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:57:03,518	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:57:03,534	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:57:03,549	INFO	Mission Accomplished!
+2023-12-07 13:58:03,572	INFO	Cleared for lift off!
+2023-12-07 13:58:03,572	INFO	Processing Device: 2
+2023-12-07 13:58:03,635	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:58:04,023	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:58:04,038	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:58:04,054	INFO	Mission Accomplished!
+2023-12-07 13:59:04,080	INFO	Cleared for lift off!
+2023-12-07 13:59:04,080	INFO	Processing Device: 2
+2023-12-07 13:59:04,142	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 13:59:04,685	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 13:59:04,700	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 13:59:04,716	INFO	Mission Accomplished!
+2023-12-07 14:00:04,749	INFO	Cleared for lift off!
+2023-12-07 14:00:04,749	INFO	Processing Device: 2
+2023-12-07 14:00:04,812	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:00:05,278	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:00:05,310	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:00:05,310	INFO	Mission Accomplished!
+2023-12-07 14:01:05,330	INFO	Cleared for lift off!
+2023-12-07 14:01:05,330	INFO	Processing Device: 2
+2023-12-07 14:01:05,394	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:01:05,902	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:01:05,918	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:01:05,933	INFO	Mission Accomplished!
+2023-12-07 14:02:05,949	INFO	Cleared for lift off!
+2023-12-07 14:02:05,949	INFO	Processing Device: 2
+2023-12-07 14:02:06,014	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:02:06,698	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:02:06,713	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:02:07,023	INFO	Mission Accomplished!
+2023-12-07 14:03:07,040	INFO	Cleared for lift off!
+2023-12-07 14:03:07,040	INFO	Processing Device: 2
+2023-12-07 14:03:07,119	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:03:07,556	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:03:07,588	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:03:07,588	INFO	Mission Accomplished!
+2023-12-07 14:04:07,601	INFO	Cleared for lift off!
+2023-12-07 14:04:07,601	INFO	Processing Device: 2
+2023-12-07 14:04:07,666	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:04:08,283	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:04:08,316	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:04:08,316	INFO	Mission Accomplished!
+2023-12-07 14:05:08,350	INFO	Cleared for lift off!
+2023-12-07 14:05:08,350	INFO	Processing Device: 2
+2023-12-07 14:05:08,412	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:05:09,344	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:05:09,360	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:05:09,375	INFO	Mission Accomplished!
+2023-12-07 14:06:09,905	INFO	Cleared for lift off!
+2023-12-07 14:06:09,905	INFO	Processing Device: 2
+2023-12-07 14:06:09,968	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:06:10,443	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:06:10,459	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:06:10,474	INFO	Mission Accomplished!
+2023-12-07 14:07:10,507	INFO	Cleared for lift off!
+2023-12-07 14:07:10,507	INFO	Processing Device: 2
+2023-12-07 14:07:10,591	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:07:10,967	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:07:10,982	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:07:10,998	INFO	Mission Accomplished!
+2023-12-07 14:08:11,048	INFO	Cleared for lift off!
+2023-12-07 14:08:11,048	INFO	Processing Device: 2
+2023-12-07 14:08:11,144	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:08:11,662	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:08:12,219	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:08:12,235	INFO	Mission Accomplished!
+2023-12-07 14:12:12,751	INFO	Cleared for lift off!
+2023-12-07 14:12:12,751	INFO	Processing Device: 2
+2023-12-07 14:12:12,863	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:12:13,266	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:12:13,285	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:12:13,300	INFO	Mission Accomplished!
+2023-12-07 14:13:13,325	INFO	Cleared for lift off!
+2023-12-07 14:13:13,325	INFO	Processing Device: 2
+2023-12-07 14:13:13,393	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:13:13,901	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:13:13,917	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:13:13,925	INFO	Mission Accomplished!
+2023-12-07 14:14:13,955	INFO	Cleared for lift off!
+2023-12-07 14:14:13,955	INFO	Processing Device: 2
+2023-12-07 14:14:14,035	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:14:14,516	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:14:14,527	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:14:15,278	INFO	Mission Accomplished!
+2023-12-07 14:15:15,346	INFO	Cleared for lift off!
+2023-12-07 14:15:15,346	INFO	Processing Device: 2
+2023-12-07 14:15:15,427	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:15:15,839	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:15:15,855	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:15:15,871	INFO	Mission Accomplished!
+2023-12-07 14:16:15,891	INFO	Cleared for lift off!
+2023-12-07 14:16:15,891	INFO	Processing Device: 2
+2023-12-07 14:16:15,988	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:16:16,468	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:16:16,489	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:16:16,503	INFO	Mission Accomplished!
+2023-12-07 14:17:16,598	INFO	Cleared for lift off!
+2023-12-07 14:17:16,598	INFO	Processing Device: 2
+2023-12-07 14:17:16,705	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:17:17,719	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:17:17,735	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:17:17,759	INFO	Mission Accomplished!
+2023-12-07 14:37:08,270	INFO	Cleared for lift off!
+2023-12-07 14:37:08,271	INFO	Processing Device: 2
+2023-12-07 14:37:08,351	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 14:37:08,719	INFO	192.168.0.6	Attendances Fetched:	10
+2023-12-07 14:37:08,743	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 14:37:08,762	INFO	Mission Accomplished!
+2023-12-07 15:26:11,269	INFO	Cleared for lift off!
+2023-12-07 15:26:11,269	INFO	Processing Device: 2
+2023-12-07 15:26:12,502	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:26:13,523	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:26:13,543	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:26:13,573	INFO	Mission Accomplished!
+2023-12-07 15:29:09,078	INFO	Cleared for lift off!
+2023-12-07 15:29:09,079	INFO	Processing Device: 2
+2023-12-07 15:29:09,168	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:29:09,686	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:29:09,726	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:29:10,135	INFO	Successfully processed Device: 2
+2023-12-07 15:29:10,416	INFO	Shift Type last_sync_of_checkin Updated	A	1701941349.687225
+2023-12-07 15:29:10,416	INFO	Mission Accomplished!
+2023-12-07 15:30:10,422	INFO	Cleared for lift off!
+2023-12-07 15:30:10,422	INFO	Processing Device: 2
+2023-12-07 15:30:10,525	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:30:11,037	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:30:11,084	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:30:11,115	INFO	Successfully processed Device: 2
+2023-12-07 15:30:11,459	INFO	Shift Type last_sync_of_checkin Updated	A	1701941411.037089
+2023-12-07 15:30:11,459	INFO	Mission Accomplished!
+2023-12-07 15:31:11,490	INFO	Cleared for lift off!
+2023-12-07 15:31:11,490	INFO	Processing Device: 2
+2023-12-07 15:31:11,582	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:31:12,127	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:31:12,158	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:31:12,174	INFO	Successfully processed Device: 2
+2023-12-07 15:31:12,431	INFO	Shift Type last_sync_of_checkin Updated	A	1701941472.127465
+2023-12-07 15:31:12,431	INFO	Mission Accomplished!
+2023-12-07 15:32:12,454	INFO	Cleared for lift off!
+2023-12-07 15:32:12,454	INFO	Processing Device: 2
+2023-12-07 15:32:12,529	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:32:12,962	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:32:12,981	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:32:13,003	INFO	Successfully processed Device: 2
+2023-12-07 15:32:13,439	INFO	Shift Type last_sync_of_checkin Updated	A	1701941532.978844
+2023-12-07 15:32:13,439	INFO	Mission Accomplished!
+2023-12-07 15:33:13,486	INFO	Cleared for lift off!
+2023-12-07 15:33:13,486	INFO	Processing Device: 2
+2023-12-07 15:33:13,650	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:33:14,159	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:33:14,174	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:33:14,190	INFO	Successfully processed Device: 2
+2023-12-07 15:33:15,351	INFO	Shift Type last_sync_of_checkin Updated	A	1701941594.159005
+2023-12-07 15:33:15,351	INFO	Mission Accomplished!
+2023-12-07 15:34:15,382	INFO	Cleared for lift off!
+2023-12-07 15:34:15,382	INFO	Processing Device: 2
+2023-12-07 15:34:15,450	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:34:16,261	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:34:16,281	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:34:16,281	INFO	Successfully processed Device: 2
+2023-12-07 15:34:16,529	INFO	Shift Type last_sync_of_checkin Updated	A	1701941656.261155
+2023-12-07 15:34:16,544	INFO	Mission Accomplished!
+2023-12-07 15:35:16,574	INFO	Cleared for lift off!
+2023-12-07 15:35:16,574	INFO	Processing Device: 2
+2023-12-07 15:35:16,643	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:35:17,082	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:35:17,098	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:35:17,113	INFO	Successfully processed Device: 2
+2023-12-07 15:35:17,433	INFO	Shift Type last_sync_of_checkin Updated	A	1701941717.082554
+2023-12-07 15:35:17,433	INFO	Mission Accomplished!
+2023-12-07 15:36:17,437	INFO	Cleared for lift off!
+2023-12-07 15:36:17,437	INFO	Processing Device: 2
+2023-12-07 15:36:21,285	INFO	Mission Accomplished!
+2023-12-07 15:37:21,308	INFO	Cleared for lift off!
+2023-12-07 15:37:21,308	INFO	Processing Device: 2
+2023-12-07 15:37:21,424	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:37:21,873	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:37:21,907	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:37:21,924	INFO	Successfully processed Device: 2
+2023-12-07 15:37:22,215	INFO	Shift Type last_sync_of_checkin Updated	A	1701941841.892436
+2023-12-07 15:37:22,215	INFO	Mission Accomplished!
+2023-12-07 15:38:22,238	INFO	Cleared for lift off!
+2023-12-07 15:38:22,239	INFO	Processing Device: 2
+2023-12-07 15:38:22,365	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:38:22,783	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:38:22,798	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:38:22,813	INFO	Successfully processed Device: 2
+2023-12-07 15:38:23,063	INFO	Shift Type last_sync_of_checkin Updated	A	1701941902.786683
+2023-12-07 15:38:23,065	INFO	Mission Accomplished!
+2023-12-07 15:39:23,088	INFO	Cleared for lift off!
+2023-12-07 15:39:23,088	INFO	Processing Device: 2
+2023-12-07 15:39:24,952	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:39:38,319	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:39:38,337	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:39:38,347	INFO	Successfully processed Device: 2
+2023-12-07 15:39:40,112	INFO	Shift Type last_sync_of_checkin Updated	A	1701941978.320533
+2023-12-07 15:39:40,114	INFO	Mission Accomplished!
+2023-12-07 15:40:25,133	INFO	Cleared for lift off!
+2023-12-07 15:40:25,133	INFO	Processing Device: 2
+2023-12-07 15:40:30,753	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:40:32,244	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:40:32,265	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:40:32,278	INFO	Successfully processed Device: 2
+2023-12-07 15:40:32,945	INFO	Shift Type last_sync_of_checkin Updated	A	1701942032.246043
+2023-12-07 15:40:32,947	INFO	Mission Accomplished!
+2023-12-07 15:41:32,974	INFO	Cleared for lift off!
+2023-12-07 15:41:32,974	INFO	Processing Device: 2
+2023-12-07 15:41:33,052	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:41:33,445	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:41:33,468	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:41:33,484	INFO	Successfully processed Device: 2
+2023-12-07 15:41:33,783	INFO	Shift Type last_sync_of_checkin Updated	A	1701942093.446314
+2023-12-07 15:41:33,786	INFO	Mission Accomplished!
+2023-12-07 15:42:33,824	INFO	Cleared for lift off!
+2023-12-07 15:42:33,824	INFO	Processing Device: 2
+2023-12-07 15:42:33,912	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:42:34,323	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:42:34,350	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:42:34,363	INFO	Successfully processed Device: 2
+2023-12-07 15:42:35,048	INFO	Shift Type last_sync_of_checkin Updated	A	1701942154.32541
+2023-12-07 15:42:35,051	INFO	Mission Accomplished!
+2023-12-07 15:43:35,092	INFO	Cleared for lift off!
+2023-12-07 15:43:35,092	INFO	Processing Device: 2
+2023-12-07 15:43:35,276	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:43:37,082	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:43:37,109	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:43:37,132	INFO	Successfully processed Device: 2
+2023-12-07 15:43:37,456	INFO	Shift Type last_sync_of_checkin Updated	A	1701942217.08354
+2023-12-07 15:43:37,458	INFO	Mission Accomplished!
+2023-12-07 15:44:37,485	INFO	Cleared for lift off!
+2023-12-07 15:44:37,485	INFO	Processing Device: 2
+2023-12-07 15:44:37,565	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:44:38,047	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:44:38,070	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:44:38,094	INFO	Successfully processed Device: 2
+2023-12-07 15:44:38,373	INFO	Shift Type last_sync_of_checkin Updated	A	1701942278.048469
+2023-12-07 15:44:38,375	INFO	Mission Accomplished!
+2023-12-07 15:45:38,406	INFO	Cleared for lift off!
+2023-12-07 15:45:38,406	INFO	Processing Device: 2
+2023-12-07 15:45:41,817	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:45:42,414	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:45:42,573	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:45:42,720	INFO	Successfully processed Device: 2
+2023-12-07 15:45:43,097	INFO	Shift Type last_sync_of_checkin Updated	A	1701942342.415385
+2023-12-07 15:45:43,099	INFO	Mission Accomplished!
+2023-12-07 15:46:43,127	INFO	Cleared for lift off!
+2023-12-07 15:46:43,127	INFO	Processing Device: 2
+2023-12-07 15:46:43,212	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:46:43,626	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:46:43,654	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:46:43,664	INFO	Successfully processed Device: 2
+2023-12-07 15:46:43,912	INFO	Shift Type last_sync_of_checkin Updated	A	1701942403.628091
+2023-12-07 15:46:43,914	INFO	Mission Accomplished!
+2023-12-07 15:47:43,944	INFO	Cleared for lift off!
+2023-12-07 15:47:43,945	INFO	Processing Device: 2
+2023-12-07 15:47:44,053	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:47:44,451	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:47:44,476	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:47:44,490	INFO	Successfully processed Device: 2
+2023-12-07 15:47:44,739	INFO	Shift Type last_sync_of_checkin Updated	A	1701942464.452253
+2023-12-07 15:47:44,741	INFO	Mission Accomplished!
+2023-12-07 15:48:44,771	INFO	Cleared for lift off!
+2023-12-07 15:48:44,771	INFO	Processing Device: 2
+2023-12-07 15:48:44,902	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:48:46,569	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:48:46,595	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:48:46,604	INFO	Successfully processed Device: 2
+2023-12-07 15:48:46,858	INFO	Shift Type last_sync_of_checkin Updated	A	1701942526.570748
+2023-12-07 15:48:46,860	INFO	Mission Accomplished!
+2023-12-07 15:49:46,898	INFO	Cleared for lift off!
+2023-12-07 15:49:46,898	INFO	Processing Device: 2
+2023-12-07 15:49:48,502	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:49:57,377	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:49:59,280	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:49:59,989	INFO	Successfully processed Device: 2
+2023-12-07 15:50:00,368	INFO	Shift Type last_sync_of_checkin Updated	A	1701942597.378315
+2023-12-07 15:50:00,371	INFO	Mission Accomplished!
+2023-12-07 15:51:00,407	INFO	Cleared for lift off!
+2023-12-07 15:51:00,407	INFO	Processing Device: 2
+2023-12-07 15:51:00,493	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:51:00,860	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:51:00,887	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:51:00,900	INFO	Successfully processed Device: 2
+2023-12-07 15:51:01,202	INFO	Shift Type last_sync_of_checkin Updated	A	1701942660.861609
+2023-12-07 15:51:01,204	INFO	Mission Accomplished!
+2023-12-07 15:52:01,235	INFO	Cleared for lift off!
+2023-12-07 15:52:01,235	INFO	Processing Device: 2
+2023-12-07 15:52:01,315	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:52:01,712	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:52:01,766	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:52:01,836	INFO	Successfully processed Device: 2
+2023-12-07 15:52:02,113	INFO	Shift Type last_sync_of_checkin Updated	A	1701942721.71361
+2023-12-07 15:52:02,116	INFO	Mission Accomplished!
+2023-12-07 15:53:02,155	INFO	Cleared for lift off!
+2023-12-07 15:53:02,155	INFO	Processing Device: 2
+2023-12-07 15:53:02,224	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:53:02,656	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:53:02,681	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:53:02,695	INFO	Successfully processed Device: 2
+2023-12-07 15:53:02,975	INFO	Shift Type last_sync_of_checkin Updated	A	1701942782.657799
+2023-12-07 15:53:02,977	INFO	Mission Accomplished!
+2023-12-07 15:54:03,020	INFO	Cleared for lift off!
+2023-12-07 15:54:03,020	INFO	Processing Device: 2
+2023-12-07 15:54:03,096	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:54:03,488	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:54:03,488	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:54:03,505	INFO	Successfully processed Device: 2
+2023-12-07 15:54:03,788	INFO	Shift Type last_sync_of_checkin Updated	A	1701942843.488647
+2023-12-07 15:54:03,788	INFO	Mission Accomplished!
+2023-12-07 15:55:03,816	INFO	Cleared for lift off!
+2023-12-07 15:55:03,816	INFO	Processing Device: 2
+2023-12-07 15:55:05,226	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:55:31,044	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:55:31,067	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:55:31,128	INFO	Successfully processed Device: 2
+2023-12-07 15:55:31,439	INFO	Shift Type last_sync_of_checkin Updated	A	1701942931.046021
+2023-12-07 15:55:31,442	INFO	Mission Accomplished!
+2023-12-07 15:56:16,458	INFO	Cleared for lift off!
+2023-12-07 15:56:16,458	INFO	Processing Device: 2
+2023-12-07 15:56:16,525	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:56:17,008	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:56:17,025	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:56:17,058	INFO	Successfully processed Device: 2
+2023-12-07 15:56:17,741	INFO	Shift Type last_sync_of_checkin Updated	A	1701942977.008761
+2023-12-07 15:56:17,743	INFO	Mission Accomplished!
+2023-12-07 15:57:17,786	INFO	Cleared for lift off!
+2023-12-07 15:57:17,786	INFO	Processing Device: 2
+2023-12-07 15:57:17,869	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:57:18,237	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:57:18,267	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:57:18,321	INFO	Successfully processed Device: 2
+2023-12-07 15:57:18,587	INFO	Shift Type last_sync_of_checkin Updated	A	1701943038.237025
+2023-12-07 15:57:18,587	INFO	Mission Accomplished!
+2023-12-07 15:58:18,628	INFO	Cleared for lift off!
+2023-12-07 15:58:18,629	INFO	Processing Device: 2
+2023-12-07 15:58:18,720	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:58:19,121	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:58:19,139	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:58:19,153	INFO	Successfully processed Device: 2
+2023-12-07 15:58:20,455	INFO	Shift Type last_sync_of_checkin Updated	A	1701943099.122636
+2023-12-07 15:58:20,457	INFO	Mission Accomplished!
+2023-12-07 15:59:20,477	INFO	Cleared for lift off!
+2023-12-07 15:59:20,477	INFO	Processing Device: 2
+2023-12-07 15:59:20,571	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 15:59:21,513	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 15:59:21,529	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 15:59:21,546	INFO	Successfully processed Device: 2
+2023-12-07 15:59:21,856	INFO	Shift Type last_sync_of_checkin Updated	A	1701943161.513536
+2023-12-07 15:59:21,856	INFO	Mission Accomplished!
+2023-12-07 16:00:21,873	INFO	Cleared for lift off!
+2023-12-07 16:00:21,873	INFO	Processing Device: 2
+2023-12-07 16:00:22,980	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:00:24,757	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:00:24,819	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:00:24,897	INFO	Successfully processed Device: 2
+2023-12-07 16:00:25,268	INFO	Shift Type last_sync_of_checkin Updated	A	1701943224.757119
+2023-12-07 16:00:25,268	INFO	Mission Accomplished!
+2023-12-07 16:01:25,304	INFO	Cleared for lift off!
+2023-12-07 16:01:25,304	INFO	Processing Device: 2
+2023-12-07 16:01:29,923	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:01:32,627	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:01:32,642	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:01:32,674	INFO	Successfully processed Device: 2
+2023-12-07 16:01:33,049	INFO	Shift Type last_sync_of_checkin Updated	A	1701943292.627288
+2023-12-07 16:01:33,049	INFO	Mission Accomplished!
+2023-12-07 16:02:33,064	INFO	Cleared for lift off!
+2023-12-07 16:02:33,064	INFO	Processing Device: 2
+2023-12-07 16:02:35,127	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:02:36,315	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:02:36,444	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:02:36,521	INFO	Successfully processed Device: 2
+2023-12-07 16:02:36,889	INFO	Shift Type last_sync_of_checkin Updated	A	1701943356.315414
+2023-12-07 16:02:36,889	INFO	Mission Accomplished!
+2023-12-07 16:03:36,926	INFO	Cleared for lift off!
+2023-12-07 16:03:36,926	INFO	Processing Device: 2
+2023-12-07 16:03:37,129	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:03:37,583	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:03:37,598	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:03:37,614	INFO	Successfully processed Device: 2
+2023-12-07 16:03:37,926	INFO	Shift Type last_sync_of_checkin Updated	A	1701943417.583061
+2023-12-07 16:03:37,926	INFO	Mission Accomplished!
+2023-12-07 16:04:37,944	INFO	Cleared for lift off!
+2023-12-07 16:04:37,944	INFO	Processing Device: 2
+2023-12-07 16:04:38,648	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:04:40,696	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:04:40,736	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:04:40,768	INFO	Successfully processed Device: 2
+2023-12-07 16:04:41,296	INFO	Shift Type last_sync_of_checkin Updated	A	1701943480.696309
+2023-12-07 16:04:41,296	INFO	Mission Accomplished!
+2023-12-07 16:05:41,350	INFO	Cleared for lift off!
+2023-12-07 16:05:41,350	INFO	Processing Device: 2
+2023-12-07 16:05:41,490	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:05:41,978	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:05:41,997	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:05:42,005	INFO	Successfully processed Device: 2
+2023-12-07 16:05:42,277	INFO	Shift Type last_sync_of_checkin Updated	A	1701943541.980339
+2023-12-07 16:05:42,279	INFO	Mission Accomplished!
+2023-12-07 16:06:42,303	INFO	Cleared for lift off!
+2023-12-07 16:06:42,303	INFO	Processing Device: 2
+2023-12-07 16:06:42,475	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:06:43,511	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:06:43,553	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:06:43,569	INFO	Successfully processed Device: 2
+2023-12-07 16:06:43,956	INFO	Shift Type last_sync_of_checkin Updated	A	1701943603.513012
+2023-12-07 16:06:43,958	INFO	Mission Accomplished!
+2023-12-07 16:07:43,991	INFO	Cleared for lift off!
+2023-12-07 16:07:43,991	INFO	Processing Device: 2
+2023-12-07 16:07:44,068	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:07:44,428	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:07:44,452	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:07:44,467	INFO	Successfully processed Device: 2
+2023-12-07 16:07:45,098	INFO	Shift Type last_sync_of_checkin Updated	A	1701943664.428509
+2023-12-07 16:07:45,100	INFO	Mission Accomplished!
+2023-12-07 16:08:45,146	INFO	Cleared for lift off!
+2023-12-07 16:08:45,146	INFO	Processing Device: 2
+2023-12-07 16:08:46,340	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:08:47,178	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:08:47,204	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:08:47,209	INFO	Successfully processed Device: 2
+2023-12-07 16:08:47,475	INFO	Shift Type last_sync_of_checkin Updated	A	1701943727.179434
+2023-12-07 16:08:47,475	INFO	Mission Accomplished!
+2023-12-07 16:09:47,492	INFO	Cleared for lift off!
+2023-12-07 16:09:47,492	INFO	Processing Device: 2
+2023-12-07 16:09:47,787	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:09:48,928	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:09:48,991	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:09:49,037	INFO	Successfully processed Device: 2
+2023-12-07 16:09:49,304	INFO	Shift Type last_sync_of_checkin Updated	A	1701943788.928372
+2023-12-07 16:09:49,304	INFO	Mission Accomplished!
+2023-12-07 16:10:49,335	INFO	Cleared for lift off!
+2023-12-07 16:10:49,335	INFO	Processing Device: 2
+2023-12-07 16:10:49,410	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:10:49,796	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:10:49,803	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:10:49,818	INFO	Successfully processed Device: 2
+2023-12-07 16:10:50,640	INFO	Shift Type last_sync_of_checkin Updated	A	1701943849.797927
+2023-12-07 16:10:50,642	INFO	Mission Accomplished!
+2023-12-07 16:11:50,693	INFO	Cleared for lift off!
+2023-12-07 16:11:50,693	INFO	Processing Device: 2
+2023-12-07 16:11:52,118	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:11:54,577	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:11:54,618	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:11:54,640	INFO	Successfully processed Device: 2
+2023-12-07 16:11:54,897	INFO	Shift Type last_sync_of_checkin Updated	A	1701943914.579229
+2023-12-07 16:11:54,897	INFO	Mission Accomplished!
+2023-12-07 16:12:54,927	INFO	Cleared for lift off!
+2023-12-07 16:12:54,927	INFO	Processing Device: 2
+2023-12-07 16:12:55,053	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:12:55,584	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:12:55,615	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:12:55,647	INFO	Successfully processed Device: 2
+2023-12-07 16:12:55,924	INFO	Shift Type last_sync_of_checkin Updated	A	1701943975.58436
+2023-12-07 16:12:55,924	INFO	Mission Accomplished!
+2023-12-07 16:13:55,960	INFO	Cleared for lift off!
+2023-12-07 16:13:55,960	INFO	Processing Device: 2
+2023-12-07 16:13:56,890	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:13:58,131	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:13:58,271	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:13:58,444	INFO	Successfully processed Device: 2
+2023-12-07 16:13:58,749	INFO	Shift Type last_sync_of_checkin Updated	A	1701944038.131347
+2023-12-07 16:13:58,751	INFO	Mission Accomplished!
+2023-12-07 16:14:58,787	INFO	Cleared for lift off!
+2023-12-07 16:14:58,787	INFO	Processing Device: 2
+2023-12-07 16:14:59,257	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:14:59,686	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:14:59,702	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:14:59,717	INFO	Successfully processed Device: 2
+2023-12-07 16:14:59,944	INFO	Shift Type last_sync_of_checkin Updated	A	1701944099.686261
+2023-12-07 16:14:59,960	INFO	Mission Accomplished!
+2023-12-07 16:15:59,992	INFO	Cleared for lift off!
+2023-12-07 16:15:59,992	INFO	Processing Device: 2
+2023-12-07 16:16:00,062	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:16:00,428	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:16:00,428	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:16:00,443	INFO	Successfully processed Device: 2
+2023-12-07 16:16:00,726	INFO	Shift Type last_sync_of_checkin Updated	A	1701944160.428407
+2023-12-07 16:16:00,728	INFO	Mission Accomplished!
+2023-12-07 16:17:00,772	INFO	Cleared for lift off!
+2023-12-07 16:17:00,772	INFO	Processing Device: 2
+2023-12-07 16:17:01,475	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:17:02,720	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:17:02,742	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:17:02,756	INFO	Successfully processed Device: 2
+2023-12-07 16:17:03,365	INFO	Shift Type last_sync_of_checkin Updated	A	1701944222.72138
+2023-12-07 16:17:03,365	INFO	Mission Accomplished!
+2023-12-07 16:18:03,397	INFO	Cleared for lift off!
+2023-12-07 16:18:03,397	INFO	Processing Device: 2
+2023-12-07 16:18:03,506	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:18:03,883	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:18:03,911	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:18:03,912	INFO	Successfully processed Device: 2
+2023-12-07 16:18:04,178	INFO	Shift Type last_sync_of_checkin Updated	A	1701944283.885227
+2023-12-07 16:18:04,178	INFO	Mission Accomplished!
+2023-12-07 16:19:04,209	INFO	Cleared for lift off!
+2023-12-07 16:19:04,209	INFO	Processing Device: 2
+2023-12-07 16:19:04,584	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:19:05,327	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:19:05,350	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:19:05,412	INFO	Successfully processed Device: 2
+2023-12-07 16:19:05,826	INFO	Shift Type last_sync_of_checkin Updated	A	1701944345.328401
+2023-12-07 16:19:05,828	INFO	Mission Accomplished!
+2023-12-07 16:20:05,881	INFO	Cleared for lift off!
+2023-12-07 16:20:05,881	INFO	Processing Device: 2
+2023-12-07 16:20:05,943	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:20:06,407	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:20:06,428	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:20:06,444	INFO	Successfully processed Device: 2
+2023-12-07 16:20:06,756	INFO	Shift Type last_sync_of_checkin Updated	A	1701944406.408559
+2023-12-07 16:20:06,756	INFO	Mission Accomplished!
+2023-12-07 16:21:06,788	INFO	Cleared for lift off!
+2023-12-07 16:21:06,788	INFO	Processing Device: 2
+2023-12-07 16:21:06,858	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:21:07,272	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:21:07,297	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:21:07,319	INFO	Successfully processed Device: 2
+2023-12-07 16:21:07,564	INFO	Shift Type last_sync_of_checkin Updated	A	1701944467.272465
+2023-12-07 16:21:07,567	INFO	Mission Accomplished!
+2023-12-07 16:22:07,584	INFO	Cleared for lift off!
+2023-12-07 16:22:07,584	INFO	Processing Device: 2
+2023-12-07 16:22:07,662	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:22:08,192	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:22:08,220	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:22:08,240	INFO	Successfully processed Device: 2
+2023-12-07 16:22:08,496	INFO	Shift Type last_sync_of_checkin Updated	A	1701944528.193749
+2023-12-07 16:22:08,498	INFO	Mission Accomplished!
+2023-12-07 16:23:08,553	INFO	Cleared for lift off!
+2023-12-07 16:23:08,553	INFO	Processing Device: 2
+2023-12-07 16:23:08,615	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:23:09,037	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:23:09,083	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:23:09,099	INFO	Successfully processed Device: 2
+2023-12-07 16:23:09,350	INFO	Shift Type last_sync_of_checkin Updated	A	1701944589.037066
+2023-12-07 16:23:09,352	INFO	Mission Accomplished!
+2023-12-07 16:24:09,381	INFO	Cleared for lift off!
+2023-12-07 16:24:09,381	INFO	Processing Device: 2
+2023-12-07 16:24:09,538	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:24:10,209	INFO	192.168.0.6	Attendances Fetched:	2
+2023-12-07 16:24:10,255	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:24:10,318	INFO	Successfully processed Device: 2
+2023-12-07 16:24:10,568	INFO	Shift Type last_sync_of_checkin Updated	A	1701944650.209212
+2023-12-07 16:24:10,568	INFO	Mission Accomplished!
+2023-12-07 16:25:10,599	INFO	Cleared for lift off!
+2023-12-07 16:25:10,599	INFO	Processing Device: 2
+2023-12-07 16:25:10,679	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:25:11,267	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:25:11,287	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:25:11,521	INFO	Successfully processed Device: 2
+2023-12-07 16:25:11,792	INFO	Shift Type last_sync_of_checkin Updated	A	1701944711.268694
+2023-12-07 16:25:11,795	INFO	Mission Accomplished!
+2023-12-07 16:26:11,834	INFO	Cleared for lift off!
+2023-12-07 16:26:11,834	INFO	Processing Device: 2
+2023-12-07 16:26:11,912	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:26:13,115	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:26:13,131	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:26:16,030	INFO	Successfully processed Device: 2
+2023-12-07 16:26:16,303	INFO	Shift Type last_sync_of_checkin Updated	A	1701944773.115787
+2023-12-07 16:26:16,303	INFO	Mission Accomplished!
+2023-12-07 16:27:16,334	INFO	Cleared for lift off!
+2023-12-07 16:27:16,334	INFO	Processing Device: 2
+2023-12-07 16:27:16,396	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:27:16,834	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:27:16,865	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:27:17,127	INFO	Successfully processed Device: 2
+2023-12-07 16:27:17,335	INFO	Shift Type last_sync_of_checkin Updated	A	1701944836.834413
+2023-12-07 16:27:17,335	INFO	Mission Accomplished!
+2023-12-07 16:28:17,366	INFO	Cleared for lift off!
+2023-12-07 16:28:17,366	INFO	Processing Device: 2
+2023-12-07 16:28:17,437	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:28:18,021	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:28:18,037	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:28:18,269	INFO	Successfully processed Device: 2
+2023-12-07 16:28:18,505	INFO	Shift Type last_sync_of_checkin Updated	A	1701944898.021609
+2023-12-07 16:28:18,505	INFO	Mission Accomplished!
+2023-12-07 16:29:18,537	INFO	Cleared for lift off!
+2023-12-07 16:29:18,537	INFO	Processing Device: 2
+2023-12-07 16:29:18,771	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:29:19,175	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:29:19,193	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:29:19,426	INFO	Successfully processed Device: 2
+2023-12-07 16:29:19,787	INFO	Shift Type last_sync_of_checkin Updated	A	1701944959.176266
+2023-12-07 16:29:19,787	INFO	Mission Accomplished!
+2023-12-07 16:30:19,819	INFO	Cleared for lift off!
+2023-12-07 16:30:19,819	INFO	Processing Device: 2
+2023-12-07 16:30:19,914	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:30:21,302	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:30:21,345	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:30:21,568	INFO	Successfully processed Device: 2
+2023-12-07 16:30:21,982	INFO	Shift Type last_sync_of_checkin Updated	A	1701945021.31832
+2023-12-07 16:30:21,984	INFO	Mission Accomplished!
+2023-12-07 16:31:22,037	INFO	Cleared for lift off!
+2023-12-07 16:31:22,037	INFO	Processing Device: 2
+2023-12-07 16:31:22,124	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:31:23,215	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:31:23,251	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:31:23,460	INFO	Successfully processed Device: 2
+2023-12-07 16:31:23,699	INFO	Shift Type last_sync_of_checkin Updated	A	1701945083.216781
+2023-12-07 16:31:23,702	INFO	Mission Accomplished!
+2023-12-07 16:32:23,725	INFO	Cleared for lift off!
+2023-12-07 16:32:23,725	INFO	Processing Device: 2
+2023-12-07 16:32:23,804	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:32:24,210	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:32:24,256	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:32:24,472	INFO	Successfully processed Device: 2
+2023-12-07 16:32:24,687	INFO	Shift Type last_sync_of_checkin Updated	A	1701945144.210475
+2023-12-07 16:32:24,687	INFO	Mission Accomplished!
+2023-12-07 16:33:24,725	INFO	Cleared for lift off!
+2023-12-07 16:33:24,725	INFO	Processing Device: 2
+2023-12-07 16:33:24,854	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:33:25,266	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:33:25,287	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:33:25,514	INFO	Successfully processed Device: 2
+2023-12-07 16:33:25,741	INFO	Shift Type last_sync_of_checkin Updated	A	1701945205.267469
+2023-12-07 16:33:25,743	INFO	Mission Accomplished!
+2023-12-07 16:34:25,787	INFO	Cleared for lift off!
+2023-12-07 16:34:25,787	INFO	Processing Device: 2
+2023-12-07 16:34:25,898	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:34:26,646	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:34:26,677	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:34:26,946	INFO	Successfully processed Device: 2
+2023-12-07 16:34:27,162	INFO	Shift Type last_sync_of_checkin Updated	A	1701945266.64632
+2023-12-07 16:34:27,162	INFO	Mission Accomplished!
+2023-12-07 16:35:27,194	INFO	Cleared for lift off!
+2023-12-07 16:35:27,194	INFO	Processing Device: 2
+2023-12-07 16:35:27,272	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:35:27,787	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:35:27,825	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:35:28,054	INFO	Successfully processed Device: 2
+2023-12-07 16:35:28,275	INFO	Shift Type last_sync_of_checkin Updated	A	1701945327.787957
+2023-12-07 16:35:28,278	INFO	Mission Accomplished!
+2023-12-07 16:36:28,305	INFO	Cleared for lift off!
+2023-12-07 16:36:28,305	INFO	Processing Device: 2
+2023-12-07 16:36:28,366	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:36:28,803	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:36:28,834	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:36:29,064	INFO	Successfully processed Device: 2
+2023-12-07 16:36:29,295	INFO	Shift Type last_sync_of_checkin Updated	A	1701945388.803111
+2023-12-07 16:36:29,298	INFO	Mission Accomplished!
+2023-12-07 16:37:29,320	INFO	Cleared for lift off!
+2023-12-07 16:37:29,320	INFO	Processing Device: 2
+2023-12-07 16:37:29,412	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:37:29,865	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:37:29,896	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:37:30,141	INFO	Successfully processed Device: 2
+2023-12-07 16:37:30,381	INFO	Shift Type last_sync_of_checkin Updated	A	1701945449.865407
+2023-12-07 16:37:30,381	INFO	Mission Accomplished!
+2023-12-07 16:38:30,414	INFO	Cleared for lift off!
+2023-12-07 16:38:30,414	INFO	Processing Device: 2
+2023-12-07 16:38:30,489	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:38:30,912	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:38:30,952	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:38:31,249	INFO	Successfully processed Device: 2
+2023-12-07 16:38:31,490	INFO	Shift Type last_sync_of_checkin Updated	A	1701945510.912896
+2023-12-07 16:38:31,490	INFO	Mission Accomplished!
+2023-12-07 16:39:31,537	INFO	Cleared for lift off!
+2023-12-07 16:39:31,537	INFO	Processing Device: 2
+2023-12-07 16:39:31,616	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:39:32,043	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:39:32,075	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:39:32,287	INFO	Successfully processed Device: 2
+2023-12-07 16:39:32,553	INFO	Shift Type last_sync_of_checkin Updated	A	1701945572.045236
+2023-12-07 16:39:32,553	INFO	Mission Accomplished!
+2023-12-07 16:40:32,600	INFO	Cleared for lift off!
+2023-12-07 16:40:32,600	INFO	Processing Device: 2
+2023-12-07 16:40:32,692	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:40:33,131	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:40:33,163	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:40:33,412	INFO	Successfully processed Device: 2
+2023-12-07 16:40:33,678	INFO	Shift Type last_sync_of_checkin Updated	A	1701945633.147306
+2023-12-07 16:40:33,678	INFO	Mission Accomplished!
+2023-12-07 16:41:33,710	INFO	Cleared for lift off!
+2023-12-07 16:41:33,710	INFO	Processing Device: 2
+2023-12-07 16:41:33,784	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:41:34,217	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:41:34,240	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:41:34,459	INFO	Successfully processed Device: 2
+2023-12-07 16:41:34,709	INFO	Shift Type last_sync_of_checkin Updated	A	1701945694.219124
+2023-12-07 16:41:34,709	INFO	Mission Accomplished!
+2023-12-07 16:42:34,740	INFO	Cleared for lift off!
+2023-12-07 16:42:34,740	INFO	Processing Device: 2
+2023-12-07 16:42:34,803	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:42:35,287	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:42:35,313	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:42:36,300	INFO	Successfully processed Device: 2
+2023-12-07 16:42:36,525	INFO	Shift Type last_sync_of_checkin Updated	A	1701945755.287547
+2023-12-07 16:42:36,527	INFO	Mission Accomplished!
+2023-12-07 16:43:36,554	INFO	Cleared for lift off!
+2023-12-07 16:43:36,554	INFO	Processing Device: 2
+2023-12-07 16:43:36,631	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:43:37,059	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:43:37,068	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:43:37,287	INFO	Successfully processed Device: 2
+2023-12-07 16:43:37,549	INFO	Shift Type last_sync_of_checkin Updated	A	1701945817.060518
+2023-12-07 16:43:37,551	INFO	Mission Accomplished!
+2023-12-07 16:44:37,584	INFO	Cleared for lift off!
+2023-12-07 16:44:37,584	INFO	Processing Device: 2
+2023-12-07 16:44:37,647	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:44:38,068	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:44:38,084	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:44:38,325	INFO	Successfully processed Device: 2
+2023-12-07 16:44:38,553	INFO	Shift Type last_sync_of_checkin Updated	A	1701945878.068961
+2023-12-07 16:44:38,553	INFO	Mission Accomplished!
+2023-12-07 16:45:38,615	INFO	Cleared for lift off!
+2023-12-07 16:45:38,615	INFO	Processing Device: 2
+2023-12-07 16:45:38,695	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:45:39,120	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:45:39,143	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:45:39,357	INFO	Successfully processed Device: 2
+2023-12-07 16:45:39,600	INFO	Shift Type last_sync_of_checkin Updated	A	1701945939.121696
+2023-12-07 16:45:39,600	INFO	Mission Accomplished!
+2023-12-07 16:46:39,647	INFO	Cleared for lift off!
+2023-12-07 16:46:39,647	INFO	Processing Device: 2
+2023-12-07 16:46:39,725	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:46:40,148	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:46:40,162	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:46:40,378	INFO	Successfully processed Device: 2
+2023-12-07 16:46:40,615	INFO	Shift Type last_sync_of_checkin Updated	A	1701946000.150134
+2023-12-07 16:46:40,615	INFO	Mission Accomplished!
+2023-12-07 16:47:40,664	INFO	Cleared for lift off!
+2023-12-07 16:47:40,664	INFO	Processing Device: 2
+2023-12-07 16:47:40,787	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:47:41,256	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:47:41,283	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:47:41,552	INFO	Successfully processed Device: 2
+2023-12-07 16:47:41,851	INFO	Shift Type last_sync_of_checkin Updated	A	1701946061.256604
+2023-12-07 16:47:41,851	INFO	Mission Accomplished!
+2023-12-07 16:48:41,867	INFO	Cleared for lift off!
+2023-12-07 16:48:41,868	INFO	Processing Device: 2
+2023-12-07 16:48:42,709	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:48:44,011	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:48:44,147	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:48:44,632	INFO	Successfully processed Device: 2
+2023-12-07 16:48:44,975	INFO	Shift Type last_sync_of_checkin Updated	A	1701946124.012963
+2023-12-07 16:48:44,975	INFO	Mission Accomplished!
+2023-12-07 16:49:45,006	INFO	Cleared for lift off!
+2023-12-07 16:49:45,006	INFO	Processing Device: 2
+2023-12-07 16:49:45,086	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:49:45,506	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:49:45,553	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:49:45,772	INFO	Successfully processed Device: 2
+2023-12-07 16:49:46,006	INFO	Shift Type last_sync_of_checkin Updated	A	1701946185.52267
+2023-12-07 16:49:46,006	INFO	Mission Accomplished!
+2023-12-07 16:50:46,041	INFO	Cleared for lift off!
+2023-12-07 16:50:46,041	INFO	Processing Device: 2
+2023-12-07 16:50:46,155	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:50:46,704	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:50:46,724	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:50:47,214	INFO	Successfully processed Device: 2
+2023-12-07 16:50:47,679	INFO	Shift Type last_sync_of_checkin Updated	A	1701946246.706019
+2023-12-07 16:50:47,679	INFO	Mission Accomplished!
+2023-12-07 16:51:47,715	INFO	Cleared for lift off!
+2023-12-07 16:51:47,715	INFO	Processing Device: 2
+2023-12-07 16:51:47,789	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:51:48,372	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:51:48,388	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:51:48,852	INFO	Successfully processed Device: 2
+2023-12-07 16:51:49,279	INFO	Shift Type last_sync_of_checkin Updated	A	1701946308.37203
+2023-12-07 16:51:49,279	INFO	Mission Accomplished!
+2023-12-07 16:52:49,300	INFO	Cleared for lift off!
+2023-12-07 16:52:49,300	INFO	Processing Device: 2
+2023-12-07 16:52:49,369	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:52:49,803	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:52:49,820	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:52:50,287	INFO	Successfully processed Device: 2
+2023-12-07 16:52:50,733	INFO	Shift Type last_sync_of_checkin Updated	A	1701946369.804412
+2023-12-07 16:52:50,733	INFO	Mission Accomplished!
+2023-12-07 16:53:50,783	INFO	Cleared for lift off!
+2023-12-07 16:53:50,786	INFO	Processing Device: 2
+2023-12-07 16:53:50,867	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:53:51,400	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:53:51,417	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:53:52,857	INFO	Successfully processed Device: 2
+2023-12-07 16:53:53,289	INFO	Shift Type last_sync_of_checkin Updated	A	1701946431.400473
+2023-12-07 16:53:53,289	INFO	Mission Accomplished!
+2023-12-07 16:54:53,303	INFO	Cleared for lift off!
+2023-12-07 16:54:53,303	INFO	Processing Device: 2
+2023-12-07 16:54:53,386	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:54:53,881	INFO	192.168.0.6	Attendances Fetched:	3
+2023-12-07 16:54:53,912	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:54:55,837	INFO	Successfully processed Device: 2
+2023-12-07 16:54:56,273	INFO	Shift Type last_sync_of_checkin Updated	A	1701946493.881489
+2023-12-07 16:54:56,273	INFO	Mission Accomplished!
+2023-12-07 16:55:56,317	INFO	Cleared for lift off!
+2023-12-07 16:55:56,317	INFO	Processing Device: 2
+2023-12-07 16:55:56,395	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:55:56,834	INFO	192.168.0.6	Attendances Fetched:	8
+2023-12-07 16:55:56,867	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:56:00,017	INFO	Successfully processed Device: 2
+2023-12-07 16:56:00,408	INFO	Shift Type last_sync_of_checkin Updated	A	1701946556.842174
+2023-12-07 16:56:00,416	INFO	Mission Accomplished!
+2023-12-07 16:57:00,443	INFO	Cleared for lift off!
+2023-12-07 16:57:00,443	INFO	Processing Device: 2
+2023-12-07 16:57:00,514	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:57:00,972	INFO	192.168.0.6	Attendances Fetched:	8
+2023-12-07 16:57:00,996	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-07 16:58:12,100	INFO	Cleared for lift off!
+2023-12-07 16:58:12,100	INFO	Processing Device: 2
+2023-12-07 16:58:15,817	INFO	Mission Accomplished!
+2023-12-07 16:59:15,837	INFO	Cleared for lift off!
+2023-12-07 16:59:15,837	INFO	Processing Device: 2
+2023-12-07 16:59:15,897	INFO	192.168.0.6	Device Disable Attempted. Result:	True
+2023-12-07 16:59:16,410	INFO	192.168.0.6	Attendances Fetched:	8
+2023-12-07 16:59:16,446	INFO	192.168.0.6	Device Enable Attempted. Result:	True
+2023-12-10 16:50:54,846	INFO	Cleared for lift off!
+2023-12-10 16:50:54,846	INFO	Processing Device: 2
+2023-12-10 16:50:54,924	INFO	192.168.0.7	Device Disable Attempted. Result:	True
+2023-12-10 16:50:55,416	INFO	192.168.0.7	Attendances Fetched:	8
+2023-12-10 16:50:55,442	INFO	192.168.0.7	Device Enable Attempted. Result:	True
+2023-12-10 16:50:56,669	INFO	Successfully processed Device: 2
+2023-12-10 16:50:57,106	INFO	Shift Type last_sync_of_checkin Updated	A	1702205455.417307
+2023-12-10 16:50:57,108	INFO	Mission Accomplished!
+2023-12-11 18:24:17,515	INFO	Cleared for lift off!
+2023-12-11 18:24:17,516	INFO	Processing Device: 2
+2023-12-11 18:24:17,583	INFO	192.168.0.5	Device Disable Attempted. Result:	True
+2023-12-11 18:24:17,652	INFO	192.168.0.5	Attendances Fetched:	2
+2023-12-11 18:24:17,669	INFO	192.168.0.5	Device Enable Attempted. Result:	True
+2023-12-11 18:24:18,691	INFO	Successfully processed Device: 2
+2023-12-11 18:24:18,924	INFO	Shift Type last_sync_of_checkin Updated		1702297457.653023
+2023-12-11 18:24:18,928	INFO	Mission Accomplished!
